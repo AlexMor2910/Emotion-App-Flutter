@@ -1,4 +1,4 @@
-EmotionColorApp
+# EmotionColorApp
 
 **EmotionColorApp** is a Flutter application that demonstrates the use of state management with `provider` to reflect and track user emotions. Users can press buttons representing different emotions (Happy, Sad, Neutral, Angry, Worried), and the UI updates in real-time to display the selected emotion's color, emoji, and counter.
 
