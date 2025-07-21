@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:easy_gui_practice/providers/providers.dart';
+import 'package:project/providers.dart';
 
 void main() {
   runApp(const EmotionColorApp());
